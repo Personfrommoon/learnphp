@@ -1,3 +1,14 @@
+<?php
+$posts = [
+  ['Title' => 'Title 1', 'body' => 'some body 1'],
+  ['Title' => 'Title 2', 'body' => 'some body 2'],
+  ['Title' => 'Title 3', 'body' => 'some body 3'],
+  ['Title' => 'Title 4', 'body' => 'some body 4'],
+  ['Title' => 'Title 5', 'body' => 'some body 5'],
+]
+?>
+
+
 <?php include 'partials/header.php'; ?>
 
 <main class="container">
