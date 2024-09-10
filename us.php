@@ -3,7 +3,7 @@
 <main class="container">
   <div class="p-4 p-md-5 mb-4 rounded text-body-emphasis bg-body-secondary">
     <div class="col-lg-6 px-0">
-      <h1 class="display-4 fst-italic">Nigger was shot</h1>
+      <h1 class="display-4 fst-italic">U.S tax system is fucked up</h1>
       <p class="lead my-3">Multiple lines of text that form the lede, informing new readers quickly and efficiently about what’s most interesting in this post’s contents.</p>
       <p class="lead mb-0"><a href="#" class="text-body-emphasis fw-bold">Continue reading...</a></p>
     </div>
@@ -245,14 +245,4 @@
   </div>
 
 </main>
-
-<footer class="py-5 text-center text-body-secondary bg-body-tertiary">
-  <p>Blog template built for <a href="https://getbootstrap.com/">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a>.</p>
-  <p class="mb-0">
-    <a href="#">Back to top</a>
-  </p>
-</footer>
-<script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
-
-    </body>
-</html>
+<?php include 'partials/footer.php'; ?>

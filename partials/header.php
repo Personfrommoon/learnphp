@@ -15,7 +15,7 @@
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
 
-<link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/assets/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <style>
       .bd-placeholder-img {
@@ -188,7 +188,7 @@
 
   <div class="nav-scroller py-1 mb-3 border-bottom">
     <nav class="nav nav-underline justify-content-between">
-      <a class="nav-item nav-link link-body-emphasis active" href="/index.php">World</a>
+      <a class="nav-item nav-link link-body-emphasis active" href="/">World</a>
       <a class="nav-item nav-link link-body-emphasis" href="/us.php">U.S.</a>
       <a class="nav-item nav-link link-body-emphasis" href="#">Technology</a>
       <a class="nav-item nav-link link-body-emphasis" href="#">Design</a>
